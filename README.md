@@ -64,7 +64,19 @@ It provides insights into team performance, player statistics, and match trends 
 - Match-wise trends reveal performance consistency and dips
 - Boundary count (4s & 6s) strongly impacts total runs
 
+## 📸 Dashboard Preview
 
+### 🔹 Overview Page
+![Overview](overview.png)
+
+### 🔹 India Analysis
+![India](india.png)
+
+### 🔹 Sri Lanka Analysis
+![Sri Lanka](srilanka.png)
+
+### 🔹 Pakistan Analysis
+![Pakistan](pakistan.png)
 ---
 
 ## 🚀 How to Use
