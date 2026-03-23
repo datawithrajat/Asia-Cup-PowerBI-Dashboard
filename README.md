@@ -69,14 +69,25 @@ It provides insights into team performance, player statistics, and match trends 
 ### 🔹 Overview Page
 ![Overview](overview.png)
 
+---
+
 ### 🔹 India Analysis
 ![India](india.png)
+
+---
 
 ### 🔹 Sri Lanka Analysis
 ![Sri Lanka](srilanka.png)
 
+---
+
 ### 🔹 Pakistan Analysis
 ![Pakistan](pakistan.png)
+
+---
+
+### 🔹 Bangladesh Analysis
+![Bangladesh](bangladesh.png)
 ---
 
 ## 🚀 How to Use
