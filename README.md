@@ -85,5 +85,3 @@ It provides insights into team performance, player statistics, and match trends 
 ## 📬 Author
 **DatawithRajat**
 
-## 📬 Author
-**Rajat**
