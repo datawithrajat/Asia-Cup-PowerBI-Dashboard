@@ -87,7 +87,7 @@ It provides insights into team performance, player statistics, and match trends 
 ---
 
 ### 🔹 Bangladesh Analysis
-![Bangladesh]
+![Bangladesh](bangladesh.png)
 ---
 
 ## 🚀 How to Use
